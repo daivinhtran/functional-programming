@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "sourceMap": true,
+    "lib": ["dom", "dom.iterable", "es2017"],
+    "watch": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  }
+}
